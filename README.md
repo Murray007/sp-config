@@ -23,3 +23,5 @@ You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/
 # 启动
 >+ pnpm install
 >+ pnpm run dev
+
+sasasas
