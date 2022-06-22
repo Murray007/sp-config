@@ -4,12 +4,9 @@
  * @LastEditTime: 2022-06-17 15:45:51
 -->
 <template>
-    <testPinia /> 
+  <testPinia />
 </template>
 <script lang="ts" setup>
-import testPinia from '../components/testPinia.vue'
-
+  import testPinia from '../components/testPinia.vue'
 </script>
-<style scoped>
-
-</style>
+<style scoped></style>
