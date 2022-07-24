@@ -1,7 +1,8 @@
 <!--
- * @Description: 
+ * @Description:
  * @Date: 2022-06-17 15:31:16
 -->
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
@@ -19,10 +20,11 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
 
-
 # 启动
->+ pnpm install
->+ pnpm run dev
+
+> - pnpm install
+> - pnpm run dev
 
 DATA-0002-xiugai:第二次
 new
+test merge
